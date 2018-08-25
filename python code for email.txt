@@ -4,7 +4,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 
-fromaddr = "your email id"
+fromaddr = "your email id here"
 PASSWORD = "your password"
 
 
